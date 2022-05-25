@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @alexnguyen104 and I'm an ordinary teenager.
-- 👀 I’m interested in making cool projects
-- 🌱 I’m currently learning python and c++
-- 💞️ I would love to know more about algorithm, data structure... 
+<h2>Hi! I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h3>About me 👀</h3>
+<ul>
+  <li>I'm an ordinary teenager who loves programming 👨‍💻</li>
+  <li>Programming languages that I'm using are: C++, Python, Javascript 💻</li>
+</ul>
 
 <!---
 alexnguyen104/alexnguyen104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
